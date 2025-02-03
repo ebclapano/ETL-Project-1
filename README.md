@@ -10,4 +10,5 @@ The tasks/goals of this project are as follows:
 6. Perform simple queries on the database. Write a function load_to_db() to execute a given set of queries to verify the output.
 
 CSV file = exchange_rate.csv
+
 URL = https://en.wikipedia.org/wiki/List_of_largest_banks
